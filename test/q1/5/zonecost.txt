@@ -7,6 +7,6 @@ ZONEID ZONEDESC             PRICE
 5      CDF                  0.00   
 6      Transylvania         12.00  
 7      Atlantis             12.00  
-8      Mars                 50.00
-9      Toronto              5.00
-10     Toronto              5.00  
+8      Mars                 50.00  
+9      Toronto              5.00   
+10     Toronto              5.00   
